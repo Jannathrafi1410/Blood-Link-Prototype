@@ -1,0 +1,6 @@
+{
+  "name": "Blood Availability Network",
+  "description": "The right blood, to the right patient, at the right time. Intelligent emergency blood matching platform connecting patients, hospitals, blood banks, donors, and NSS partners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
